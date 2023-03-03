@@ -2,10 +2,10 @@
 other = "Més"
 
 [allTitle]
-other = "Tots els {{.Title }}"
+other = "Tots els {{ .Title }}"
 
 [recentTitle]
-other = "{{.Title }} recents"
+other = "{{ .Title }} recents"
 
 [readMore]
 other = "Llegir més"

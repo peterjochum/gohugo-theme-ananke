@@ -38,4 +38,4 @@ other = "Enviar"
 other = "Abaixo você encontrará as páginas que utilizam o termo de taxonomia “{{ .Title }}”"
 
 [pageTitle]
-other = "{{ .Name }} página"
+other = "{{ . }} página"

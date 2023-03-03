@@ -35,4 +35,4 @@ other = "Skicka"
 other = "Nedan hittar du alla sidor som är taggade “{{ .Title }}”"
 
 [pageTitle]
-other = "{{ .Name }} sida"
+other = "{{ . }} sida"

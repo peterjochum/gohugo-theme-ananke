@@ -43,4 +43,4 @@ one = "Yksi sana"
 other = "{{ .Count }} sanaa"
 
 [pageTitle]
-other = "{{ .Name }} sivu"
+other = "{{ . }} sivu"

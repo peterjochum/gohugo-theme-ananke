@@ -35,4 +35,4 @@ other = "Gönder"
 other = "Aşağıda, “{{ .Title }}” sınıflandırma terimini kullanan sayfaları bulacaksınız."
 
 [pageTitle]
-other = "{{ .Name }} sayfa"
+other = "{{ . }} sayfa"

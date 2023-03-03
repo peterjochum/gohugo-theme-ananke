@@ -35,4 +35,4 @@ other = "送出"
 other = "標籤為 “{{ .Title }}” 的頁面如下"
 
 [pageTitle]
-other = "{{ .Name }} 頁"
+other = "{{ . }} 頁"

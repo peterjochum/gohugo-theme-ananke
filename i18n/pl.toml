@@ -46,4 +46,4 @@ one = "Jedno słowo"
 other = "{{ .Count }} słów"
 
 [pageTitle]
-other = "{{ .Name }} strona"
+other = "{{ . }} strona"

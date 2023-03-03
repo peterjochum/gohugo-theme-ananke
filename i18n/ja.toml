@@ -43,4 +43,4 @@ one = "1 文字"
 other = "{{ .Count }} 文字"
 
 [pageTitle]
-other = "{{ .Name }} ページ"
+other = "{{ . }} ページ"

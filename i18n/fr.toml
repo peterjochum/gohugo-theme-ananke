@@ -46,4 +46,4 @@ one = "Un mot"
 other = "{{ .Count }} mots"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "{{ . }} page"
